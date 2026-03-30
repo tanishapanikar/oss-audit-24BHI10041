@@ -5,7 +5,7 @@
 **Name:** Tanisha
 **Registration Number:** 24BHI10041
 **Course:** Open Source Software
-**Project Title:** Open Source Audit – Python
+**Project Title:** Open Source Audit – PythoN
 
 ---
 
