@@ -1,0 +1,6 @@
+----- My Open Source Thought -----
+Date: Mon Mar 30 17:31:38 UTC 2026
+
+I believe open source means the right or ability to do or say what you want.
+I use tools like PostHog in my daily life.
+I want to build data science and share it with everyone.
